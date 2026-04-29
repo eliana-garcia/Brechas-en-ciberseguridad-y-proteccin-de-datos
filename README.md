@@ -2,9 +2,11 @@
 
 ## Descripción
 
-NOMBRE es una plataforma web creada para municipios de Chile. Su objetivo es mejorar la ciberseguridad, proteger datos personales y enseñar buenas prácticas digitales a funcionarios y ciudadanos.
+NOMBRE es una plataforma web desarrollada para municipios de Chile, enfocada en fortalecer la ciberseguridad institucional, proteger los datos personales de funcionarios y ciudadanos, y promover buenas prácticas digitales mediante herramientas educativas e interactivas.
 
-La plataforma apoya la modernización municipal con herramientas seguras, simples y fáciles de usar, alineadas con la :contentReference[oaicite:0]{index=0} y la :contentReference[oaicite:1]{index=1}.
+La plataforma busca apoyar el proceso de modernización municipal entregando una solución segura, accesible y fácil de usar, que permita prevenir incidentes informáticos, mejorar la gestión interna y aumentar la confianza en los servicios digitales municipales.
+
+Además, su diseño considera lineamientos del Estado de Chile, alineándose con la Ley 21.663 Marco de Ciberseguridad y la Ley 21.180 de Transformación Digital del Estado.
 
 ---
 
