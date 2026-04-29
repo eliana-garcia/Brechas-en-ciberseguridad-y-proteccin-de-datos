@@ -4,7 +4,7 @@
 
 NOMBRE es una plataforma web creada para municipios de Chile. Su objetivo es mejorar la ciberseguridad, proteger datos personales y enseñar buenas prácticas digitales a funcionarios y ciudadanos.
 
-La plataforma apoya la modernización municipal con herramientas seguras, simples y fáciles de usar, alineadas con la Ley 21.663 de Ciberseguridad y la Ley 21.180 de Transformación Digital del Estado.
+La plataforma apoya la modernización municipal con herramientas seguras, simples y fáciles de usar, alineadas con la :contentReference[oaicite:0]{index=0} y la :contentReference[oaicite:1]{index=1}.
 
 ---
 
@@ -36,51 +36,51 @@ Desarrollar una plataforma web moderna, segura y accesible que permita:
 
 ---
 
-### Roles del Sistema
+## Roles del Sistema
 
-#### Usuario
+### Usuario
 
 Ciudadano o funcionario municipal que utiliza la plataforma para aprender, reportar incidentes y revisar información.
 
-#### Administrador
+### Administrador
 
 Encargado TI o seguridad municipal que administra usuarios, alertas y estadísticas.
 
 ---
 
-### Requerimientos Funcionales
+## Requerimientos Funcionales
 
-1. Ver cursos y contenido educativo sobre ciberseguridad.  
-2. Realizar evaluaciones en línea y ver resultados.  
-3. Reportar incidentes de seguridad informática.  
-4. Consultar estado de reportes enviados.  
-5. Ver alertas y noticias preventivas.  
-6. Gestionar usuarios (crear, editar, bloquear).  
-7. Visualizar estadísticas generales del sistema.  
+- Ver cursos y contenido educativo sobre ciberseguridad.
+- Realizar evaluaciones en línea y ver resultados.
+- Reportar incidentes de seguridad informática.
+- Consultar estado de reportes enviados.
+- Ver alertas y noticias preventivas.
+- Gestionar usuarios (crear, editar, bloquear).
+- Visualizar estadísticas generales del sistema.
 
 ---
 
-### Requerimientos No Funcionales
+## Requerimientos No Funcionales
 
-#### Rendimiento
+### Rendimiento
 
 - Las páginas principales deben cargar en menos de 3 segundos.
 
-#### Seguridad
+### Seguridad
 
-- Uso de HTTPS.  
-- Contraseñas cifradas.  
-- Acceso según roles de usuario.  
+- Uso de HTTPS.
+- Contraseñas cifradas.
+- Acceso según roles de usuario.
 
-#### Usabilidad
+### Usabilidad
 
-- Diseño simple e intuitivo.  
-- Navegación clara.  
-- Compatible con celular y computador.  
+- Diseño simple e intuitivo.
+- Navegación clara.
+- Compatible con celular y computador.
 
 ---
 
-### Justificación
+## Justificación
 
 Los municipios manejan gran cantidad de datos personales y trámites digitales. Sin buenas medidas de seguridad pueden ocurrir robos de información, errores humanos o ataques cibernéticos.
 
@@ -88,22 +88,55 @@ Por eso se necesita una solución moderna, segura y fácil de usar.
 
 ---
 
-### Usuario Objetivo
+## Usuario Objetivo
 
-#### Ciudadano
+### Ciudadano
 
 - Acceder a información segura.
 - Aprender buenas prácticas digitales.
 - Reportar incidentes.
 
-#### Funcionario Municipal
+### Funcionario Municipal
 
 - Capacitarse en ciberseguridad.
 - Proteger datos ciudadanos.
 - Reportar amenazas digitales.
 
-#### Administrador
+### Administrador
 
 - Supervisar seguridad.
 - Gestionar usuarios.
 - Revisar estadísticas e incidentes.
+
+---
+
+## Arquitectura de Navegación
+
+### Rutas Públicas
+
+??????????????????????
+
+###  Rutas Usuario
+????????????
+
+###  Rutas Administrador
+
+??????????????????
+
+##  Tecnologías Utilizadas
+
+??????????????????
+
+##  Estructura del Proyecto
+
+?????????????????????
+
+## Instalación
+
+????????????????
+
+## Integrantes
+- Kevin Alvarez
+- Mario Rojas
+- Jose Mena
+- Eliana García
