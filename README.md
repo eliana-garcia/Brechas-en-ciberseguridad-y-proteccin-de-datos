@@ -140,5 +140,5 @@ Por eso se necesita una solución moderna, segura y fácil de usar.
 ## Integrantes
 - Kevin Alvarez
 - Mario Rojas
-- Jose Mena ?????????
+- Jose Mena
 - Eliana García
