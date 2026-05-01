@@ -14,8 +14,8 @@ Plataforma web y móvil desarrollada para municipios de Chile, enfocada en forta
 ##  Diseño UI/UX 
 El prototipo interactivo (7 pantallas Web y Móvil) está disponible en Figma:
 
-**Versión Web :** [Acceder al Prototipo Web](https://www.figma.com/proto/SJBMvQYMxzBbBbfmXl0ocW/Mockups?node-id=83-4934&t=DohFbTQ2ZBG8bKd7-1&scaling=scale-down&content-scaling=fixed&page-id=3%3A2&starting-point-node-id=29%3A1400)
-
+* **Versión Web :** [Acceder al Prototipo Web](https://www.figma.com/proto/SJBMvQYMxzBbBbfmXl0ocW/Mockups?node-id=83-4934&t=DohFbTQ2ZBG8bKd7-1&scaling=scale-down&content-scaling=fixed&page-id=3%3A2&starting-point-node-id=29%3A1400)
+* **Versión Móvil :** [Acceder al Prototipo Móvil](https://www.figma.com/proto/SJBMvQYMxzBbBbfmXl0ocW/Mockups?node-id=87-10039&t=4tQ8VzTfo9pqKYsI-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
 ## Documentación Completa 
 Para revisar requerimientos, justificación y arquitectura, visite la carpeta:
  **[Carpeta /otros](./otros)**
