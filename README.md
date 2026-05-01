@@ -1,144 +1,25 @@
-# NOMBRE
+# Plataforma de Ciberseguridad Municipal
 
 ## Descripción
-
-NOMBRE es una plataforma web desarrollada para municipios de Chile, enfocada en fortalecer la ciberseguridad institucional, proteger los datos personales de funcionarios y ciudadanos, y promover buenas prácticas digitales mediante herramientas educativas e interactivas.
-
-La plataforma busca apoyar el proceso de modernización municipal entregando una solución segura, accesible y fácil de usar, que permita prevenir incidentes informáticos, mejorar la gestión interna y aumentar la confianza en los servicios digitales municipales.
-
-Además, su diseño considera lineamientos del Estado de Chile, alineándose con la Ley 21.663 Marco de Ciberseguridad y la Ley 21.180 de Transformación Digital del Estado.
-
----
-
-## Problema que Resuelve
-
-Muchos municipios enfrentan problemas digitales como:
-
-- Falta de capacitación en ciberseguridad.
-- Riesgo de phishing y robo de cuentas.
-- Filtración de datos personales.
-- Falta de protocolos ante incidentes.
-- Bajo nivel de preparación tecnológica.
-- Desconfianza ciudadana en plataformas digitales.
-
-MuniSecure Gov busca prevenir estos riesgos y fortalecer la seguridad digital municipal.
-
----
-
-## Objetivo del Proyecto
-
-Desarrollar una plataforma web moderna, segura y accesible que permita:
-
-- Capacitar usuarios en ciberseguridad.
-- Reportar incidentes digitales.
-- Proteger información importante.
-- Gestionar usuarios y alertas.
-- Visualizar estadísticas.
-- Mejorar la confianza en servicios digitales.
-
----
-
-## Roles del Sistema
-
-### Usuario
-
-Ciudadano o funcionario municipal que utiliza la plataforma para aprender, reportar incidentes y revisar información.
-
-### Administrador
-
-Encargado TI o seguridad municipal que administra usuarios, alertas y estadísticas.
-
----
-
-## Requerimientos Funcionales
-
-- Ver cursos y contenido educativo sobre ciberseguridad.
-- Realizar evaluaciones en línea y ver resultados.
-- Reportar incidentes de seguridad informática.
-- Consultar estado de reportes enviados.
-- Ver alertas y noticias preventivas.
-- Gestionar usuarios (crear, editar, bloquear).
-- Visualizar estadísticas generales del sistema.
-
----
-
-## Requerimientos No Funcionales
-
-### Rendimiento
-
-- Las páginas principales deben cargar en menos de 3 segundos.
-
-### Seguridad
-
-- Uso de HTTPS.
-- Contraseñas cifradas.
-- Acceso según roles de usuario.
-
-### Usabilidad
-
-- Diseño simple e intuitivo.
-- Navegación clara.
-- Compatible con celular y computador.
-
----
-
-## Justificación
-
-Los municipios manejan gran cantidad de datos personales y trámites digitales. Sin buenas medidas de seguridad pueden ocurrir robos de información, errores humanos o ataques cibernéticos.
-
-Por eso se necesita una solución moderna, segura y fácil de usar.
-
----
-
-## Usuario Objetivo
-
-### Ciudadano
-
-- Acceder a información segura.
-- Aprender buenas prácticas digitales.
-- Reportar incidentes.
-
-### Funcionario Municipal
-
-- Capacitarse en ciberseguridad.
-- Proteger datos ciudadanos.
-- Reportar amenazas digitales.
-
-### Administrador
-
-- Supervisar seguridad.
-- Gestionar usuarios.
-- Revisar estadísticas e incidentes.
-
----
-
-## Arquitectura de Navegación
-
-### Rutas Públicas
-
-??????????????????????
-
-###  Rutas Usuario
-????????????
-
-###  Rutas Administrador
-
-??????????????????
-
-##  Tecnologías Utilizadas
-
-??????????????????
-
-##  Estructura del Proyecto
-
-?????????????????????
-
-## Instalación
-
-????????????????
+Plataforma web y móvil desarrollada para municipios de Chile, enfocada en fortalecer la ciberseguridad institucional y proteger datos personales. Proyecto alineado con la **Ley 21.663 (Marco de Ciberseguridad)** y la **Ley 21.180 (Transformación Digital)**.
 
 ## Integrantes
-- Kevin Alvarez
-- Mario Rojas
-- Jose Mena
-- Eliana García
+* Kevin Alvarez
+* Mario Rojas
+* Jose Mena
+* Eliana García
+
+---
+
+##  Diseño UI/UX (EP 1.3)
+El prototipo interactivo (7 pantallas Web y Móvil) está disponible en Figma:
+ **[Acceder al Prototipo en Figma](TU_LINK_AQUÍ)**
+
+## Documentación Completa 
+Para revisar requerimientos, justificación y arquitectura, visite la carpeta:
+ **[Carpeta /otros](./otros)**
+
+---
+
+##  Guía de Instalación y Ejecución
+
